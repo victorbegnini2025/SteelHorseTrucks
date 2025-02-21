@@ -14,7 +14,7 @@ Product: The catalog product are small and medium-sized trucks.
 
 Product Properties: ID (as primary key), Model, Year, Payload Capacity (Tons), Price ($), Warranty (Years).
 
-Logo: The logo is attached and was created with the help of AI.
+Logo: The logo is attached and was created with the help of AI.(https://github.com/victorbegnini2025/SteelHorseTrucks/blob/master/wwwroot/imgs/Logo.png)
 
 Headquarters Location: St. Clair College, Downtown Campus, Windsor, ON, Canada
 
