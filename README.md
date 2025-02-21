@@ -1,18 +1,21 @@
+St Clair College
+CYB 206 - Web Application Security
 Group Name: Delta Team
-
-Group Members: Akhil Sivan, Victor Alex Begnini, and Vishal Sharma
-
+Group Members: Akhil Sivan(0873141), Victor Alex Begnini(0680860), and Vishal Sharma(0876754)
 Project Object: Trucks
-
 Project Name: SteelHorse Trucks
-
-Product: The catalog product will be small and medium-sized trucks.
+Product: The catalog product are small and medium-sized trucks.
 
 Product Properties: ID (as primary key), Model, Year, Payload Capacity (Tons), Price ($), Warranty (Years).
 
 Logo: The logo is attached and was created with the help of AI.
 
-Headquarters Location: Windsor, ON, Canada
+Headquarters Location: St. Clair College, Downtown Campus, Windsor, ON, Canada
+
+*Credentials to access the Trucks list in the site:
+login:delta@deltateam.com
+password:Abc123456!
+
 
 -------------------------------------------------------------------
 
