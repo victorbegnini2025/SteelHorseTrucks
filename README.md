@@ -1,9 +1,15 @@
 St Clair College
+
 CYB 206 - Web Application Security
+
 Group Name: Delta Team
+
 Group Members: Akhil Sivan(0873141), Victor Alex Begnini(0680860), and Vishal Sharma(0876754)
+
 Project Object: Trucks
+
 Project Name: SteelHorse Trucks
+
 Product: The catalog product are small and medium-sized trucks.
 
 Product Properties: ID (as primary key), Model, Year, Payload Capacity (Tons), Price ($), Warranty (Years).
