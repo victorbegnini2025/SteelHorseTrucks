@@ -23,7 +23,7 @@ README
 
 12:01:19 the webapp was tested and everything was running in the correct way.
 12:10:45 Started implementing security features for data protection in ASP.NET Core.
-12:15:23 Configured authentication and authorization by adding the [Authorize] attribute to controllers and actions.
+12:15:23 Configured authentication and authorization by adding the [ Authorize ] attribute to controllers and actions.
 12:20:33 Created a new role-based authorization policy in Startup.cs.
 12:25:11 Applied authorization policies to different parts of the application, restricting access to specific roles.
 12:30:55 Modified views to display or hide content based on the user's authentication and authorization status.
@@ -38,7 +38,7 @@ README
 
 13:30:32 Committing and pushing changes to the remote repository.
 13:35:28 Made necessary modifications to the project and verified all updates.
-13:40:45 Opened Team Explorer, selected "Changes," entered a commit message.
+13:40:45 Opened Team Explorer, selected "Changes," entered a commit message
 13:45:23 Committed the changes locally.
 13:50:09 Clicked "Sync" in Team Explorer to push the committed changes to the remote repository on GitHub.
 13:55:65 Verified that the changes were successfully reflected in the remote repository.
