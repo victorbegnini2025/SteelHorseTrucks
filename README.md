@@ -19,8 +19,7 @@ Logo: The logo is attached and was created with the help of AI.(https://github.c
 Headquarters Location: St. Clair College, Downtown Campus, Windsor, ON, Canada
 
 *Credentials to access the Trucks list in the site:
-login:delta@deltateam.com
-password:Abc123456!
+
 
 
 -------------------------------------------------------------------
