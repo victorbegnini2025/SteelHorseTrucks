@@ -41,6 +41,7 @@ README
 13:40:45 Vishal - Opened Team Explorer, selected "Changes," entered a commit message.
 13:45:23 Vishal -  Committed the changes locally.
 13:50:09 Vishal - Clicked "Sync" in Team Explorer to push the committed changes to the remote repository on GitHub.
+
 13:55:65 Victor - Verified that the changes were successfully reflected in the remote repository.
 
 14:00:12 Victor -  The web application was tested again, and all new features, including authentication and authorization, were working correctly.
@@ -59,3 +60,5 @@ README
 
 login:delta@deltateam.com
 password:Abc123456!
+
+02:36:16 Vishal - Updated the Controller file.
