@@ -62,3 +62,28 @@ login:delta@deltateam.com
 password:Abc123456!
 
 02:36:16 Vishal - Updated the Controller file.
+
+2025-03-09
+
+10:15:22 Victor - Created a testing environment to validate new features before deployment.
+10:45:37 Akhil - Set up a production environment to ensure a stable and secure release.
+11:20:12 Vishal - Configured CI/CD pipelines for automated deployment using GitHub Actions.
+12:00:45 Victor - Conducted initial testing in the testing environment, identifying minor issues to be fixed.
+
+2025-03-12
+
+09:30:18 Akhil - Addressed identified issues and optimized database queries for better performance.
+10:15:45 Vishal - Enhanced logging capabilities to improve debugging and error tracking.
+11:40:09 Victor - Successfully deployed the web application to the production environment.
+12:10:32 Victor - Verified that all functionalities were working as expected in the live system.
+12:45:10 Vishal - Performed security assessments to ensure data protection in the production environment.
+
+2025-03-17
+
+08:30:55 Victor - Finalized the user documentation for onboarding and administration.
+09:15:20 Akhil - Performed load testing to evaluate system performance under stress conditions.
+10:10:42 Vishal - Updated components for a user-friendly experience.
+11:00:27 Victor - The website was officially launched and made publicly available at https://steelhorsetrucks.azurewebsites.net/.
+11:30:15 Akhil - Monitored system performance post-deployment and confirmed stability.
+
+
