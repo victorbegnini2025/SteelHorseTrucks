@@ -36,11 +36,11 @@ README
 13:15:53 Victor - Selected a local path for cloning the repository and clicked "Clone."
 13:20:50 Victor - Verified that all project files were successfully cloned and opened the solution in Visual Studio.
 
-13:30:32 Vishal - Committing and pushing changes to the remote repository.
-13:35:28 Vishal - Made necessary modifications to the project and verified all updates.
-13:40:45 Vishal - Opened Team Explorer, selected "Changes," entered a commit message.
-13:45:23 Vishal -  Committed the changes locally.
-13:50:09 Vishal - Clicked "Sync" in Team Explorer to push the committed changes to the remote repository on GitHub.
+13:30:32 Victor - Committing and pushing changes to the remote repository.
+13:35:28 Victor - Made necessary modifications to the project and verified all updates.
+13:40:45 Victor - Opened Team Explorer, selected "Changes," entered a commit message.
+13:45:23 Victor -  Committed the changes locally.
+13:50:09 Victor - Clicked "Sync" in Team Explorer to push the committed changes to the remote repository on GitHub.
 
 13:55:65 Victor - Verified that the changes were successfully reflected in the remote repository.
 
@@ -67,16 +67,18 @@ password:Abc123456!
 
 10:15:22 Victor - Created a testing environment to validate new features before deployment.
 10:45:37 Akhil - Set up a production environment to ensure a stable and secure release.
-11:20:12 Vishal - Configured CI/CD pipelines for automated deployment using GitHub Actions.
+11:20:12 Configured CI/CD pipelines for automated deployment using GitHub Actions.
 12:00:45 Victor - Conducted initial testing in the testing environment, identifying minor issues to be fixed.
+12:35:41 Victor - Tried to create an admin view, but errors ocurred
+15:55:22 Victor - Developed a generic admin function
 
 2025-03-12
 
 09:30:18 Akhil - Addressed identified issues and optimized database queries for better performance.
-10:15:45 Vishal - Enhanced logging capabilities to improve debugging and error tracking.
+10:15:45 Victor - Enhanced logging capabilities to improve debugging and error tracking.
 11:40:09 Victor - Successfully deployed the web application to the production environment.
 12:10:32 Victor - Verified that all functionalities were working as expected in the live system.
-12:45:10 Vishal - Performed security assessments to ensure data protection in the production environment.
+12:45:10 Victor - Performed security assessments to ensure data protection in the production environment.
 
 2025-03-17
 
